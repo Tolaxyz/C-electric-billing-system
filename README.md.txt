@@ -22,7 +22,5 @@ N.B : this version of the code created is open source and is calculated in naira
 
 
 
-
-
-This project was recreated from the initial source code from code-projects.org
+This project was recreated from the initial project sample from code-projects.org
 
